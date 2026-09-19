@@ -241,4 +241,4 @@ This repository serves as the official landing page for Battle for Wesnoth. The 
 **Get the most recent version of Battle for Wesnoth today!**
 
 ---
-**Last updated:** 2026-09-19 05:41:34 UTC
+**Last updated:** 2026-09-19 10:21:10 UTC
